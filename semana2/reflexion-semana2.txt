@@ -1,0 +1,5 @@
+El desarrollador cuando sabe usar la terminal puede navegar entre las carpetas, organizar los archivos 
+y ejecutar comandos de manera rápida y eficiente, ya que puede automatizar tareas lo que facilita 
+su trabajo. Además, tiene un mayor control sobre los cambios realizados en un proyecto y puede 
+colaborar con otros desarrolladores de forma organizada. Todo lo anterior le permite mejorar 
+la productividad y reducir errores durante el trabajo.
