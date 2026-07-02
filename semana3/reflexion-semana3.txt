@@ -1,0 +1,4 @@
+Es importante porque al tener un registro de los cambios, se puede hacer seguimiento al proyecto y 
+mantener el orden de las modificaciones que se realizaron y quién fue el responsable. 
+Esto facilita el trabajo en equipo, reduce el riesgo de pérdida de información y 
+permite restaurar versiones anteriores en caso de que ocurra algún error.
